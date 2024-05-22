@@ -1,0 +1,45 @@
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 50%;
+}
+.dd {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: palevioletred;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 50px;
+}
+img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+h1{
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-container{
+    background-color: palevioletred;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 50px;
+}
